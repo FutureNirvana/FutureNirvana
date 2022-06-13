@@ -1,6 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 ### 🌱 I’m currently learning github
 ### 🔭 I’m currently working on a personal project using react native
+### 😄 Pronouns: He/Him
+
+###⚡ Fun fact:
+- I practice Taekwondo
+- Occasionally plays Badminton
 
 <!--
 **FutureNirvana/FutureNirvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
