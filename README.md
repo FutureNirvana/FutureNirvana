@@ -1,5 +1,6 @@
-### Hi there 👋
-## 🌱 I’m currently learning github
+## Hi there 👋
+### 🌱 I’m currently learning github
+### 🔭 I’m currently working on a personal project using react native
 
 <!--
 **FutureNirvana/FutureNirvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
