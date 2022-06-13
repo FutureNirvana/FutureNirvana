@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on a personal project using react native
 ### 😄 Pronouns: He/Him
 
-###⚡ Fun fact:
+⚡ Fun fact:
 - I practice Taekwondo
 - Occasionally plays Badminton
 
