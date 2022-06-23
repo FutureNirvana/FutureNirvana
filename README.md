@@ -1,6 +1,6 @@
 # Hi there 👋
 ### 🌱 I’m currently learning github
-### 🔭 I’m currently working on a personal project using react native
+### 🔭 currently working on a personal project using react native
 ### 😄 Pronouns: He/Him
 
 ⚡ Fun fact:
